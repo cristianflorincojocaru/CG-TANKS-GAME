@@ -1,1 +1,1 @@
-# Computer Graphics - TANKS! GAME - UNITE BOSTON 2015
+# Computer Graphics - TANKS! - UNITE BOSTON 2015
