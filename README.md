@@ -36,22 +36,47 @@ The **main technologies** used for this project / game are :
 
 ## GAME FEATURES
 ### Features added based on the tutorial :
-- 2 players, 1 keyboard for shared gameplay.
-- Player vs. Player competitive action.
-- Win by reaching 5 rounds first.
-- Round notifications displayed during gameplay.
-- Leaderboard appears after each round.
-- Complete tank control for both players.
-- Health bars displayed around each tank.
-- Adjustable shooting power for strategic attacks.
-- Explosive effects for impactful battles.
-- Damage based on explosion proximity to the tank.
-- Diverse sound effects for an immersive experience.
+### 1. 2 players, 1 keyboard for shared gameplay.
+> **EXPLANATION** : It’s not the most appealing name ( *if you know, you know* ), but anyway, as the title suggests, **2 players** have to share **a keyboard** to actually play the game. The **game controls** are explained in the repository.
 
-### Features added by me, after completing the tutorial :
-Timer: Each round is limited to 45 seconds.
+### 2. Player vs. Player competitive action.
+> **EXPLANATION** : The players / tanks can move around a spacious map, filled with obstacles and objects that can either **hinder them** or **help them** in **eliminating the opponent** or **being eliminated by the opponent**.
 
-Pause button: Allows players to pause the game at any time.
+### 3. Win by reaching 5 rounds first.
+> **EXPLANATION** : For one player to officially **WIN** the game, they must defeat their opponent in **5 individual rounds**. To be honest, I couldn’t decide if it should be **2 rounds** or **100 rounds** to win.
+
+### 4. Round notifications displayed during gameplay.
+> **EXPLANATION** : At the beginning of the game, after each round, whether won or in the case of a draw, messages are displayed on the screen to inform the players about the progress of the game.
+
+### 5. Leaderboard appears after each round.
+> **EXPLANATION** : The scoreboard appears after each round to notify the players of the **game’s score**, whether they want to **retreat** or perhaps make a **legendary comeback**, all the way until the score reaches **5**.
+
+### 6. Complete tank control for both players.
+> **EXPLANATION** : The players have **full control** over the tanks.
+
+### 7. Health bars displayed around each tank.
+> **EXPLANATION** : **Health bars**, specifically **circles**, are located around the tanks to help players keep track of how much health their tank has left.
+
+### 8. Adjustable shooting power for strategic attacks.
+> **EXPLANATION** : Projectile shots are quite interesting ; you must carefully **time your shots** to ensure the projectile hits the opponent with **enough power**. If not, there’s a chance the projectile could **damage you instead**, or worse, you might leave yourself exposed if your shot misses and goes over the opponent.
+
+### 9. Explosive effects for impactful battles.
+> **EXPLANATION** : The projectiles explode, ***BOOOOM***, either next to you or causing you to explode. Your opponent will really **enjoy the animation**, so try to make sure you explode them before they do it to you !
+
+### 10. Damage based on explosion proximity to the tank.
+> **EXPLANATION** : Projectiles **deal damage** depending on their **power** and the **location** where they land. They can damage both you (even if they’re your own) and your opponent, and vice versa. Be careful with your aim, as in some cases, you might even cause a **DRAW**.
+
+### 11. Diverse sound effects for an immersive experience.
+> **EXPLANATION** : The tanks have a sound of **idling**, and a **functional engine** sound when **moving**. The **projectiles** also have their **own sound effects**, and there’s a **background music** track (*which I personally find a bit annoying*) to make the game more **enjoyable** and **"realistic."**
+
+
+### Features added by ME, after completing the tutorial :
+### 1. TIMER - keep an eye on the clock
+> **EXPLANATION** : It represents the **time** you have to **COMPLETE** the game, normally **45 seconds**. If the time runs out and neither of the two players has dealt **enough damage** to **WIN** the round or **eliminate** the opponent, it is considered a **DRAW**. The ***score will remain the same***, and ***a new round*** will start within the game, **aimed at eliminating the opponent**.
+
+### 2. PAUSE button - what if one of you needs an urgent break ?
+> **EXPLANATION** : Implemented for **key moments**, **unexpected breaks**, or simply for ***fun**, it helps **both** players take a break if needed.
+
 
 
 
