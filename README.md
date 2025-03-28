@@ -35,7 +35,7 @@ The **main technologies** used for this project / game are :
 
 
 ## GAME FEATURES
-### Features added based on the tutorial :
+### -  Features added based on the tutorial :
 ### 1. 2 players, 1 keyboard for shared gameplay
 > **EXPLANATION** : It’s not the most appealing name ( *if you know, you know* ), but anyway, as the title suggests, **2 players** have to share **a keyboard** to actually play the game. The **game controls** are explained in the repository.
 
@@ -70,7 +70,7 @@ The **main technologies** used for this project / game are :
 > **EXPLANATION** : The tanks have a sound of **idling**, and a **functional engine** sound when **moving**. The **projectiles** also have their **own sound effects**, and there’s a **background music** track (*which I personally find a bit annoying*) to make the game more **enjoyable** and **"realistic."**
 
 
-### Features added by ME, after completing the tutorial :
+### - Features added by ME, after completing the tutorial :
 ### 1. TIMER - keep an eye on the clock
 > **EXPLANATION** : It represents the **time** you have to **COMPLETE** the game, normally **45 seconds**. If the time runs out and neither of the two players has dealt **enough damage** to **WIN** the round or **eliminate** the opponent, it is considered a **DRAW**. The ***score will remain the same***, and ***a new round*** will start within the game, **aimed at eliminating the opponent**.
 
@@ -78,6 +78,33 @@ The **main technologies** used for this project / game are :
 > **EXPLANATION** : Implemented for **key moments**, **unexpected breaks**, or simply for ***fun**, it helps **both** players take a break if needed.
 
 
+
+## TESTING METHODS
+If you want to play the game and test the final project, you can download the **4 archives** named ***"BUILD1 / 2 / 3 / 4"*** from the **'GAMEBUILD'** folder. After extracting the files from the initial archives, **place everything in a separate folder** for better file organization. Then, simply access ***"TANKS!.exe"*** and you can play endlessly with your friend. 
+- **Minimum requirements** – **130 MB** of free space for download.
+
+If you'd like to see the process behind the scenes, you're invited to download the **3 archives** ( *ASSETS, PACKAGES & PROJECTSETTINGS* ) from the **'PROGRAM FILES'** folder, which contain the original files behind the creation of the project. With these, you can make modifications to the project I have already completed, as you wish.
+
+> [!NOTE]
+> Even though some folders contain **multiple archives**, they have been split this way to upload the complete project to **GitHub** ( *with a file size limit of 25 MB* ). For example, the *'ASSETS'* folder contains 5 archives. If you download the files according to my folder structure, meaning all the files from *'ASSETS'* should be placed in the parent ***'ASSETS' directory***, the game / project will **run properly**.
+>
+> The same applies to the ready-to-play ***".exe" files***—although there are multiple *"BUILD"* archives, if they are all placed under a single parent folder, the game can be launched with a single click.
+
+
+
+## ABOUT THE GAME FILES
+> [!IMPORTANT]
+> The modifications I made – ***the timer and the pause button*** – are found in the main file, which is powerful for the entire game, ***"GameManager.cs"**. The rest of the files remain **standard**, as per the tutorial.
+
+The rest of the files, as per the tutorial, are :
+
+- ***"CameraControl.cs"*** – controls the camera to follow the two players.
+
+- ***"TankManager.cs"*** – the **powerful file** for **global settings** ( *for both players* ), which is harder to work with compared to ***"GameManager.cs"***.
+
+- ***"ShellExplosion.cs"*** & ***"UIDirectionControl.cs"*** – handle the **explosion effects** and **UI direction control**.
+
+- ***"TankHealth.cs"***, ***"TankMovement.cs"***, & ***"TankShooting.cs"*** – deal with everything related to the tank, as their names suggest.
 
 
 ## CONTRIBUTIONS 
