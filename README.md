@@ -19,19 +19,19 @@ The **main technologies** used for this project / game are :
 
 ## GAME CONTROLS
 
-|          **ACTION**        	    |  **BUTTON** |             **DESCRIPTION**          	|
-|:------------------------------: |:---------:	|:-----------------------------------:	|
-| Player **no. 1** - SHOOT     	  |   SPACE   	|     Fire the **'Player 1'** tank's gun    |
+|          **ACTION**        	        |  **BUTTON** |                **DESCRIPTION**          	|
+|:------------------------------:     |:---------:	|:-----------------------------------:	    |
+| Player **no. 1** - SHOOT     	      |   SPACE   	|     Fire the **'Player 1'** tank's gun    |
 | Player **no. 1** : HORIZONTAL (+) 	|    **d**   	| Move the **'Player 1'** tank to the right |
 | Player **no. 1** : HORIZONTAL (-) 	|    **a**   	|  Move the **'Player 1'** tank to the left	|
 |  Player **no. 1** : VERTICAL (+)  	|    **w**   	|    Move the **'Player 1'** tank forward  	|
 |  Player **no. 1** : VERTICAL (-)  	|     **s**   |     Move the **'Player 1'** tank back    	|
-| **( - )**                                  |   **( - )**        |          **( - )**                   |
-| Player **no. 2** - SHOOT     	  |   ENTER   	|   Fire the *'Player 2'* tank's gun     	|
-| Player **no. 2** : HORIZONTAL (+) 	|   RIGHT   	| Move the *'Player 2'* tank to the right	|
-| Player **no. 2** : HORIZONTAL (-) 	|    LEFT   	|  Move the *'Player 2'* tank to the left	|
-|  Player **no. 2** : VERTICAL (+)  	|     UP    	|    Move the *'Player 2'* tank forward  	|
-|  Player **no. 2** : VERTICAL (-)  	|    DOWN   	|    Move the *'Player 2'* tank back     	|
+|          **( - )**                  |   **( - )** |          **( - )**                        |
+| Player **no. 2** - SHOOT     	      |   ENTER     |   Fire the *'Player 2'* tank's gun       	|
+| Player **no. 2** : HORIZONTAL (+) 	|   RIGHT   	| Move the *'Player 2'* tank to the right	  |
+| Player **no. 2** : HORIZONTAL (-) 	|    LEFT   	|  Move the *'Player 2'* tank to the left  	|
+|  Player **no. 2** : VERTICAL (+)  	|     UP    	|    Move the *'Player 2'* tank forward   	|
+|  Player **no. 2** : VERTICAL (-)  	|    DOWN   	|    Move the *'Player 2'* tank back      	|
 
 
 ## GAME FEATURES
