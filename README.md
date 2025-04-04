@@ -6,6 +6,14 @@
 
 You and a friend will battle using **one keyboard** over multiple rounds to determine which tank is the strongest.
 
+> [!IMPORTANT]
+> This project is based on the **original tutorial** for the game **"TANKS!"**, specifically the **first version of the game**, which was presented at **Unite Boston 2015**.
+>
+> The tutorial was available until **April 1st, 2025**. Starting from that date, **Unity** released a [**new tutorial**](https://learn.unity.com/course/tanks-make-a-battle-game-for-web-and-mobile) based on the same game, but with some changes that make the newly published project on their website feel like a **"new game"**.
+
+> [!NOTE]
+> The **core idea remains the same**, but the **implementation** is **slightly different**.
+
 
 
 ## TECHNOLOGIES USED
