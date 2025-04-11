@@ -89,7 +89,7 @@ If you'd like to see the process behind the scenes, you're invited to download t
 
 ## ABOUT THE GAME FILES
 > [!IMPORTANT]
-> The modifications I made – ***the timer and the pause button*** – are found in the main file, which is powerful for the entire game, **"GameManager.cs"**. The rest of the files remain **standard**, as per the tutorial.
+> The modifications I made – ***the timer and the pause button*** – are found in the main file, which is powerful for the entire game, ***"GameManager.cs"***. The rest of the files remain **standard**, as per the tutorial.
 
 The rest of the files, as per the tutorial, are :
 
