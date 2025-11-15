@@ -43,7 +43,7 @@ The **main technologies** used for this project / game are :
 
 
 ## GAME FEATURES
-### Throughout the tutorial, we've developed quite a few **game features**, such as :
+Throughout the tutorial, we've developed quite a few **game features**, such as :
 - **2 players, 1 keyboard for shared gameplay :** Two players share a *single keyboard* to play the game, with the controls explained in the repository.
 
 - **Player vs. Player competitive action :** The players, controlling tanks, navigate a spacious map filled with obstacles and objects that either hinder or help in *eliminating the opponent* or *avoiding being eliminated*.
@@ -67,7 +67,7 @@ The **main technologies** used for this project / game are :
 - **Diverse sound effects for an 'immersive' experience :** The tanks have *engine and idle sounds when moving*, while projectiles have their own effects. *Background music* is also included to enhance the overall experience, though it may be a bit annoying to some.
 
 
-### In addition to the features mentioned earlier, which were implemented based on the tutorial, I personally added **new functionalities** to leave **my mark** on this project. These include :
+In addition to the features mentioned earlier, which were implemented based on the tutorial, I personally added **new functionalities** to leave **my mark** on this project. These include :
 - **Timer - keep an eye on the clock :** The timer represents the time you have to complete the game, typically set to *45 seconds*. If the time runs out and neither player has dealt enough damage to win the round or eliminate the opponent, the *round is considered a draw*. The score remains the same, and *a new round will start*, focused on eliminating the opponent.
 
 - **Pause button - what if one of you needs an urgent break ? :** The pause button is implemented for *key moments*, unexpected breaks, or *simply for fun*, allowing both players to take a break if needed without interrupting the flow of the game.
